@@ -14,79 +14,84 @@ Apply your new design knowledge to a novel software problem.
 
 - Go around to a few shopping sites and see what kind of things are included on their product pages
 
-- Product view requirements
+#### Product view requirements
 
-* Header
+- Header
 
-At least 1 picture of the product
+- At least 1 picture of the product
 
-Product name
+- Product name
 
-Product price
+- Product price
 
-Product description
+- Product description
 
-Buy button
+- Buy button
 
-Anything else you want to include
+- Anything else you want to include
 
-Now go around and look at different cart pages and see what things you might like to put in your design
+#### Now go around and look at different cart pages and see what things you might like to put in your design
 
-Cart view requirements
+#### Cart view requirements
 
-Pictures of each item
+- Pictures of each item
 
-Names of each item
+- Names of each item
 
-Quantity of each item
+- Quantity of each item
 
-Prices of each item
+- Prices of each item
 
-Total price
+- Total price
 
-Checkout button
+- Checkout button
 
-Anything else you want to include
+- Anything else you want to include
 
-Part 2: Style guide
-Summary
-Create a style guide frame in your Figma workspace. Make note of all the rules you want to define about your styling.
+## Part 2: Style guide
 
-Instructions
-Decide on a color scheme
+### Summary
+- Create a style guide frame in your Figma workspace. Make note of all the rules you want to define about your styling.
 
-Decide on a font or two
+### Instructions
 
-Create layout and spacing rules
+- Decide on a color scheme
 
-Write icons/illustrations/picture rules
+- Decide on a font or two
 
-Plan out any reusable elements (buttons or cards)
+- Create layout and spacing rules
 
-Write other dos and don’ts of your design guide
+- Write icons/illustrations/picture rules
 
-Part 3: Mockups
-Summary
-Now you’ll create the high fidelity mockups of your views based on the wireframes and your style guide.
+- Plan out any reusable elements (buttons or cards)
 
-Create the basic layout
+- Write other dos and don’ts of your design guide
 
-Add in the text and images
+## Part 3: Mockups
 
-Tweak the sizes and spacing to match your style guide
+### Summary
 
-More Views
-If you have completed 2 views, add any more you’d like from the following list.
+- Now you’ll create the high fidelity mockups of your views based on the wireframes and your style guide.
 
-Home Page
+- Create the basic layout
 
-All Products Page
+- Add in the text and images
 
-Pages for different sections of products (Fiction, Nonfiction, Childrens, etc. for a bookstore)
+- Tweak the sizes and spacing to match your style guide
 
-Login Page
+## More Views
 
-Settings Page
+### If you have completed 2 views, add any more you’d like from the following list.
 
-### Figma Share Link
+- Home Page
+
+- All Products Page
+
+- Pages for different sections of products (Fiction, Nonfiction, Childrens, etc. for a bookstore)
+
+- Login Page
+
+- Settings Page
+
+## Figma Share Link
 https://www.figma.com/file/1Jn9hXKYJUOSifyIJJ3GtP/Design-Lab?node-id=0%3A1&t=S5XOsSuDpDfYiIvb-1
